@@ -1,4 +1,4 @@
-let coordinates = {}
+let coordinates = {lattitude: 12.98160, longitude: 77.71092};
 
 $(document).ready(function () {
     get_coordinates();
